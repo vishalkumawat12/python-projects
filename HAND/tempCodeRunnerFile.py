@@ -1,0 +1,1 @@
+ mask2=cv2.inRange(hsv,np.array([2,0,0]),np.array([20,255,255]))
